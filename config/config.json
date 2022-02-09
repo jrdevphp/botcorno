@@ -1,0 +1,11 @@
+{
+    "language": "pt_br",
+    "expiration_payment_in_minutes": "60",
+    "token_bot": "5197265865:AAGfqYv8nEqN-y3bxfgtZe5NaE8j7uDv_5A",
+    "user_suporte": "",
+    "minimum_recharge": "10",
+    "footer_text": "*Bot by*: @MatheusStore",
+    "donos": [
+        "5193376857"
+    ]
+}
